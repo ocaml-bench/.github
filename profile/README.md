@@ -4,6 +4,6 @@ OCaml Bench brings together the community's work on measuring the performance of
 
 ## Projects
 
-* [sandmark](https://github.com/ocaml-bench/sandmark): runs benchmarks on tuned machines and visualises the results.
-* [macro-benches](https://github.com/ocaml-bench/macro-benches): a suite of real OCaml applications (compilers, provers, static analysers and more) in the style of [DaCapo](https://www.dacapobench.org/), each with small, default and large inputs.
-* [micro-benches](https://github.com/ocaml-bench/micro-benches): the classic Sandmark micro benchmarks, each exercising a particular part of the language or runtime, and runnable standalone with opam and dune.
+* [sandmark](https://github.com/ocaml-bench/sandmark): runs benchmarks on tuned machines providing visualisations of the results.
+* [macro-benches](https://github.com/ocaml-bench/macro-benches): a suite of realistic OCaml applications in the style of [DaCapo](https://www.dacapobench.org/).
+* [micro-benches](https://github.com/ocaml-bench/micro-benches): the classic suite of micro benchmarks, each exercising a particular part of the language or runtime, and runnable standalone with minimal setup.
